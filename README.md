@@ -45,7 +45,8 @@ Foi projetada para calcular a **aceleração de um sistema com três blocos** co
 
 - **Aceleração do sistema**:  
   \[
-  a = forcaTotal / massa1 + massa2 + massa3
+  a = forcaTotal / (massa₁ + massa₂ + massa₃)
+
   \]
 
 - **Tensão no bloco 1**:  
