@@ -15,12 +15,12 @@ Foi projetada para calcular a **aceleração de um sistema com três blocos** co
 
   <strong>Exemplo quando a corda que está entre o bloco 1 e o bloco 2 se rompe:</strong>
   
-![image](https://github.com/user-attachments/assets/e110f49d-f532-4570-8a56-2971b4759180)
+![image](https://github.com/user-attachments/assets/83ae5341-a482-4650-b8fa-f8ed7f114087)
 
 
   <strong>Exemplo quando a corda que está entre o bloco 2 e o bloco 3 se rompe:</strong>
 
-![image](https://github.com/user-attachments/assets/212039e4-6d44-4136-8763-d915038f9fa2)
+![image](https://github.com/user-attachments/assets/df033225-cf59-4e92-8de8-72635d1ee225)
 
   <strong>Exemplo quando a corda não se rompe:</strong>
   
