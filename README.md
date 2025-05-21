@@ -24,7 +24,7 @@ Foi projetada para calcular a **aceleração de um sistema com três blocos** co
 
   <strong>Exemplo quando a corda não se rompe:</strong>
   
-![image](https://github.com/user-attachments/assets/619e8ca9-a89e-4a5a-b72e-aee4d188aa98)
+![image](https://github.com/user-attachments/assets/53948e51-08ea-4f84-bee0-3e5f4654d1d8)
 
 
 ---
